@@ -80,8 +80,8 @@ I am Ajai from India and I'm interested in web development and recently I shifte
 
  ### Github Stats
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajai-sandy&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Ajai's+GitHub+Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajai-sandy&count_private=true&show_icons=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Ajai's+GitHub+Stats"/>
 
 ---
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ajai-sandy&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ajai-sandy&count_private=true&layout=compact&title_color=FD9047&icon_color=FD9047&text_color=0C2233"/>
