@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 
 ### Hi there Welcome to my Github page 👋
 
-I am Ajai from India and I'm interested in web development and recently I shifted my interest towards open source projects \(javascript). I am very passionate about solving complex problems, exploring applications that solves business use cases and spend much of my doing this.
+I am Ajai from India and am a web developer by profession and recently I shifted my interest towards open source projects(javascript). I am very passionate about solving complex problems, exploring applications that solves business use cases and spend much of my doing this.
 
+ ---
+ - Currently holding 6+ yrs of experience in the file of web development.
+ - Interested to do competitive coding focused on frontend side of web development.
+ - I am looking for some good open source project.
 ---
 
 ### Things I Code With?
@@ -55,12 +59,6 @@ I am Ajai from India and I'm interested in web development and recently I shifte
     <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
     <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
 </div>
-
-
- ---
- - Currently holding 6+ yrs of experience in the file of web development.
- - I am interested to do competitive coding focused on Frontend side of web development.
- - I am looking for some good open source project.
  
   ### Contact me: 
  <div>
