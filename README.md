@@ -1,31 +1,22 @@
+### Hi there Welcome to my Github page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ajai-sandy)
 
+<img align="right" alt="GIF" src="https://i.ibb.co/QMLyw1x/code.gif" width="500" height="320" style="vertical-align:middle;margin:0px 50px"/>
+I am Ajai from India and I'm interested in web development and recently I shifted my interest towards open source projects (javascript). I am very passionate about solving complex problems, exploring applications that solves business use cases and spend much of my doing this.
 
-<!--
-**ajai-sandy/ajai-sandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Talking about Personal Stuffs:
 
-Here are some ideas to get you started:
+- 👨🏽‍💻I'm currently holding 6+ yrs of experience in the file of web development.
+- 🏆I'm interested to do competitive coding focused on Frontend side of web development.
+- 🛠 I’m currently working on React, Javascript, etc
+- 🚀 I’m currently learning desing patters
+- 👾 Fun fact: Equal is Not Always Equal in Javascript.
+- 🍕I'm looking for some good open source project.
+- 📫 How to reach me: ajai199@gmail.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi there Welcome to my Github page 👋
-
-I am Ajai from India and am a web developer by profession and recently I shifted my interest towards open source projects(javascript). I am very passionate about solving complex problems, exploring applications that solves business use cases and spend much of my doing this.
-
- ---
- - Currently holding 6+ yrs of experience in the file of web development.
- - Interested to do competitive coding focused on frontend side of web development.
- - I am looking for some good open source project.
 ---
 
-### Things I Code With?
+### 🔧 Technologies & Tools
+
 <div align="center">
 <h4>Programming Languages</h4>
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -59,9 +50,11 @@ I am Ajai from India and am a web developer by profession and recently I shifted
     <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
     <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
 </div>
- 
-  ### Contact me: 
- <div>
+
+---
+### 📩 Connect with me:
+
+<div>
   <a href="https://www.linkedin.com/in/ajaisandy/">
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge"/>
    </a> 
@@ -70,16 +63,29 @@ I am Ajai from India and am a web developer by profession and recently I shifted
   </a>
 </div>
 
- ---
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajai-sandy" alt="Github Streak Stats">
-
 ---
 
- ### Github Stats
+### 🖥️ Dev Stuffs:
+
+<details>	
+  <summary><b>🏆 GitHub Trophies</b></summary>
+
+  <br/>
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajai-sandy&count_private=true&show_icons=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Ajai's+GitHub+Stats"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajai-sandy&theme=flat&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
 
----
+<details>	
+ <summary><b>☄️ Github Streaks</b></summary>
+ 
+   <br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajai-sandy" alt="Github Streak Stats">
+</details>
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ajai-sandy&count_private=true&layout=compact&title_color=FD9047&icon_color=FD9047&text_color=0C2233"/>
+<details>	
+  <summary><b>📈 GitHub Stats</b></summary>
+  
+  <br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajai-sandy&include_all_commits=true&count_private=true&show_icons=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Ajai's+GitHub+Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajai-sandy&count_private=true&layout=compact&title_color=FD9047&icon_color=FD9047&text_color=0C2233"/>
+</details>
