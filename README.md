@@ -5,10 +5,10 @@ I am Ajai from India and I'm interested in web development and recently I shifte
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 &nbsp; I'm currently holding 6+ yrs of experience in the field of web development.
-- 🏆 &nbsp; I'm interested to do competitive coding focused on Frontend side of web development.
-- 🛠 &nbsp; I’m currently working on React, Javascript, etc
-- 🚀 &nbsp; I’m currently learning desing patters
+- 👨🏽‍💻 &nbsp; I'm currently holding 7+ yrs of experience in the field of web development.
+- 🏆 &nbsp; I'm interested explore latest technologies focused on Frontend side of web development.
+- 🛠 &nbsp; I’m currently working on ReactJS, Redux.
+- 🚀 &nbsp; I’m currently learning desing patters.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 🍕 &nbsp; I'm looking for some good open source project.
 - 📫 &nbsp; How to reach me: ajai199@gmail.com.
